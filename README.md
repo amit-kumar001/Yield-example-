@@ -38,9 +38,9 @@ for result in next():
    ## How to run this file
    If you are using python 2.x version, you can run it using: 
    ```
-   python2.x playing_with_python.py
+   python2.x y_prog.py
    ```
    If you are using python 3.x version, you can run it using:
    ```
-   python3.x playing_with_python.py
+   python3.x y_prog.py
    ```
