@@ -1,7 +1,12 @@
 # Yield-example-
 ## Key features
 <ol>
-  <li> In this program, we are explaining about the working of yield in python with break. So, for explaining this, we have coded the following program::smiley: 
+  <li> In this program, we are explaining about the working of yield in python with break. So, for explaining this, we have coded the following program::smiley:   
+    
+ Please see the below screenshot   
+ 
+ ![yield-in-python](https://user-images.githubusercontent.com/47202519/52631498-f3402800-2ee4-11e9-8c74-f697d6d4aa9e.jpg)  
+ 
      
      
    ```
