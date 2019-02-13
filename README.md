@@ -5,8 +5,7 @@
     
  Please see the below screenshot   
  
- ![yield-in-python](https://user-images.githubusercontent.com/47202519/52631498-f3402800-2ee4-11e9-8c74-f697d6d4aa9e.jpg)  
- 
+ ![yield500x300](https://user-images.githubusercontent.com/47202519/52690473-cf7fef00-2f83-11e9-8ddb-84d11a486e81.jpg)
      
      
    ```
